@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rachel Ladrigan. I'm a full-stack software engineer @100Devs.</h1>
-<h3 align="center">I am a full-stack software engineer who is proficient in HTML, CSS, Javascript, Node.js, MongoDB, and React. I create accessible and responsive websites to serve the wishes and needs of clients and I am ready and willing to solve any problem using creativity, collaboration, and innovation.</h3>
+<h3 align="center">I am a full-stack software engineer who is proficient in HTML, CSS, Javascript. I create accessible and responsive websites to serve the wishes and needs of clients and I am ready and willing to solve any problem using creativity, collaboration, and innovation.</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
