@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rachel Ladrigan</h1>
-<h3 align="center">A passionate Data Scientist from Connecticut.</h3>
+<h3 align="center">A passionate Web Developer from Connecticut.</h3>
 
 - 👨‍💻 All of my projects are available at [https://rachelladriganportfolio.netlify.app](https://rachelladriganportfolio.netlify.app)
 
